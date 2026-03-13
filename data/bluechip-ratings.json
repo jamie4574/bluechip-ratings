@@ -1,0 +1,153 @@
+{
+  "generated_at": "2026-03-13T10:36:07.523Z",
+  "fetched": 19,
+  "missing": 31,
+  "errors": 0,
+  "ratings": {
+    "USDT": {
+      "name": "Tether",
+      "symbol": "USDT",
+      "grade": "D",
+      "url": "https://bluechip.org/coins/usdt"
+    },
+    "USDC": {
+      "name": "Circle",
+      "symbol": "USDC",
+      "grade": "B+",
+      "url": "https://bluechip.org/coins/usdc"
+    },
+    "BUSD": null,
+    "DAI": {
+      "name": "Sky Money",
+      "symbol": "DAI",
+      "grade": "B+",
+      "url": "https://bluechip.org/coins/dai"
+    },
+    "FRAX": {
+      "name": "Frax Finance",
+      "symbol": "FRAX",
+      "grade": "D",
+      "url": "https://bluechip.org/coins/frax"
+    },
+    "TUSD": {
+      "name": "Trust Token",
+      "symbol": "TUSD",
+      "grade": "D",
+      "url": "https://bluechip.org/coins/tusd"
+    },
+    "USDP": {
+      "name": "Paxos",
+      "symbol": "USDP",
+      "grade": "A-",
+      "url": "https://bluechip.org/coins/usdp"
+    },
+    "GUSD": {
+      "name": "Gemini",
+      "symbol": "GUSD",
+      "grade": "A",
+      "url": "https://bluechip.org/coins/gusd"
+    },
+    "LUSD": {
+      "name": "Liquity",
+      "symbol": "LUSD",
+      "grade": "A",
+      "url": "https://bluechip.org/coins/lusd"
+    },
+    "USDD": {
+      "name": "TronDAO",
+      "symbol": "USDD",
+      "grade": "F",
+      "url": "https://bluechip.org/coins/usdd"
+    },
+    "XAUT": {
+      "name": "Tether",
+      "symbol": "XAUT",
+      "grade": "D",
+      "url": "https://bluechip.org/coins/xaut"
+    },
+    "PAXG": {
+      "name": "Paxos",
+      "symbol": "PAXG",
+      "grade": "A",
+      "url": "https://bluechip.org/coins/paxg"
+    },
+    "EURT": null,
+    "EURS": null,
+    "XSGD": {
+      "name": "StraitsX",
+      "symbol": "XSGD",
+      "grade": "B+",
+      "url": "https://bluechip.org/coins/xsgd"
+    },
+    "FDUSD": {
+      "name": "First Digital",
+      "symbol": "FDUSD",
+      "grade": "C",
+      "url": "https://bluechip.org/coins/fdusd"
+    },
+    "PYUSD": {
+      "name": "PayPal",
+      "symbol": "PYUSD",
+      "grade": "A-",
+      "url": "https://bluechip.org/coins/pyusd"
+    },
+    "USDE": null,
+    "CRVUSD": null,
+    "GHO": {
+      "name": "Aave",
+      "symbol": "GHO",
+      "grade": "D",
+      "url": "https://bluechip.org/coins/gho"
+    },
+    "FRXETH": null,
+    "SUSD": null,
+    "ALUSD": null,
+    "DOLA": null,
+    "BEAN": {
+      "name": "Bean",
+      "symbol": "BEAN",
+      "grade": "F",
+      "url": "https://bluechip.org/coins/bean"
+    },
+    "USDX": null,
+    "CUSD": null,
+    "USDK": null,
+    "HUSD": null,
+    "ZUSD": null,
+    "MUSD": null,
+    "OUSD": {
+      "name": "Origin Protocol",
+      "symbol": "OUSD",
+      "grade": "B+",
+      "url": "https://bluechip.org/coins/ousd"
+    },
+    "USDN": null,
+    "USDJ": null,
+    "UST": null,
+    "TRIBE": null,
+    "FEI": null,
+    "RAI": {
+      "name": "Reflexer",
+      "symbol": "RAI",
+      "grade": "B+",
+      "url": "https://bluechip.org/coins/rai"
+    },
+    "FLOAT": null,
+    "USDV": null,
+    "USDY": null,
+    "USDM": null,
+    "USDL": null,
+    "RLUSD": {
+      "name": "Ripple",
+      "symbol": "RLUSD",
+      "grade": "A",
+      "url": "https://bluechip.org/coins/rlusd"
+    },
+    "GYEN": null,
+    "NZDS": null,
+    "CADC": null,
+    "EUROC": null,
+    "GBPT": null,
+    "TRYB": null
+  }
+}
