@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-03-16T09:46:47.498Z",
-  "fetched": 19,
-  "missing": 31,
+  "generated_at": "2026-03-16T10:35:25.957Z",
+  "fetched": 22,
+  "missing": 28,
   "errors": 0,
   "ratings": {
     "USDT": {
@@ -135,15 +135,30 @@
     "FLOAT": null,
     "USDV": null,
     "USDY": null,
-    "USDM": null,
-    "USDL": null,
+    "BOLD": {
+      "name": "Liquity",
+      "symbol": "BOLD",
+      "grade": "A-",
+      "url": "https://bluechip.org/coins/bold"
+    },
+    "EURC": {
+      "name": "Circle",
+      "symbol": "EURC",
+      "grade": "A-",
+      "url": "https://bluechip.org/coins/eurc"
+    },
+    "USDGLO": {
+      "name": "Glo Foundation",
+      "symbol": "USDGLO",
+      "grade": "B",
+      "url": "https://bluechip.org/coins/usdglo"
+    },
     "RLUSD": {
       "name": "Ripple",
       "symbol": "RLUSD",
       "grade": "A",
       "url": "https://bluechip.org/coins/rlusd"
     },
-    "GYEN": null,
     "NZDS": null,
     "CADC": null,
     "EUROC": null,
