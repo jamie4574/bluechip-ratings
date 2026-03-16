@@ -13,7 +13,7 @@ const TICKERS = [
   'USDD', 'XAUT', 'PAXG', 'EURT', 'EURS', 'XSGD', 'FDUSD', 'PYUSD', 'USDE',
   'CRVUSD', 'GHO', 'FRXETH', 'SUSD', 'ALUSD', 'DOLA', 'BEAN', 'USDX', 'CUSD',
   'USDK', 'HUSD', 'ZUSD', 'MUSD', 'OUSD', 'USDN', 'USDJ', 'UST', 'TRIBE',
-  'FEI', 'RAI', 'FLOAT', 'USDV', 'USDY', 'USDM', 'USDL', 'RLUSD', 'GYEN',
+  'FEI', 'RAI', 'FLOAT', 'USDV', 'USDY', 'BOLD', 'EURC', 'USDGLO', 'RLUSD',
   'NZDS', 'CADC', 'EUROC', 'GBPT', 'TRYB'
 ];
  
