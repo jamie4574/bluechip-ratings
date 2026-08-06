@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-05T08:39:10.993Z",
-  "fetched": 22,
-  "missing": 28,
+  "generated_at": "2026-08-06T08:39:49.217Z",
+  "fetched": 23,
+  "missing": 27,
   "errors": 0,
   "ratings": {
     "USDT": {
@@ -113,7 +113,12 @@
     "CUSD": null,
     "USDK": null,
     "HUSD": null,
-    "ZUSD": null,
+    "ZUSD": {
+      "name": "GMO Internet Group",
+      "symbol": "ZUSD",
+      "grade": "B+",
+      "url": "https://bluechip.org/coins/zusd"
+    },
     "MUSD": null,
     "OUSD": {
       "name": "Origin Protocol",
