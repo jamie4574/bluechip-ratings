@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-23T06:43:38.458Z",
-  "fetched": 23,
-  "missing": 27,
+  "generated_at": "2026-08-24T07:02:07.316Z",
+  "fetched": 24,
+  "missing": 26,
   "errors": 0,
   "ratings": {
     "USDT": {
@@ -71,7 +71,12 @@
       "grade": "A",
       "url": "https://bluechip.org/coins/paxg"
     },
-    "EURT": null,
+    "EURT": {
+      "name": "Euro Tether",
+      "symbol": "EURT",
+      "grade": "D",
+      "url": "https://bluechip.org/coins/eurt"
+    },
     "EURS": null,
     "XSGD": {
       "name": "StraitsX",
