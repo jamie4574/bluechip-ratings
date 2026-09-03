@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T10:52:44.360Z",
+  "generated_at": "2026-09-03T10:52:31.364Z",
   "fetched": 24,
   "missing": 26,
   "errors": 0,
@@ -7,7 +7,7 @@
     "USDT": {
       "name": "Tether",
       "symbol": "USDT",
-      "grade": "D",
+      "grade": "C",
       "url": "https://bluechip.org/coins/usdt"
     },
     "USDC": {
