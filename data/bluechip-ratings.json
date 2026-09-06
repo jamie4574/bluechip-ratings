@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T10:10:26.306Z",
+  "generated_at": "2026-09-06T10:30:57.761Z",
   "fetched": 24,
   "missing": 26,
   "errors": 0,
@@ -121,7 +121,7 @@
     "ZUSD": {
       "name": "GMO Internet Group",
       "symbol": "ZUSD",
-      "grade": "B+",
+      "grade": "B-",
       "url": "https://bluechip.org/coins/zusd"
     },
     "MUSD": null,
